@@ -37,6 +37,3 @@ The System successfully demonstrates real-time appliance control and energy moni
 
 ## Author
 Vasu
-<img width="682" height="728" alt="Picture3" src="https://github.com/user-attachments/assets/14cb59ea-20c7-491e-9079-78b227683880" />
-<img width="715" height="581" alt="Picture2" src="https://github.com/user-attachments/assets/17fca9c4-2c29-4a18-b4b6-e5fccd729329" />
-<img width="1626" height="1953" alt="Picture1" src="https://github.com/user-attachments/assets/65c552bd-b1cc-44e8-97e7-c5685992d4dc" />
